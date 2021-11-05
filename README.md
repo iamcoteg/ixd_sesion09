@@ -1,1 +1,15 @@
-# ixd_sesion09
+# Introducción a la programación para el Diseño de interacción
+
+### Trabajo final: Definición
+
+**¿Para qué?** → Refiera al beneficio que se obtiene al interactuar con su propuesta.
+
+**¿Para quiénes?** → Caracterice tres usuarixs, dos en lados extremos y uno entre ellos.
+
+**¿Qué antecedentes corresponde considerar?** → Recopilación de aquello que se ha hecho antes buscando mismo beneficio para mismxs usuarixs.
+
+**¿Qué referentes podrían aportar novedad?** → Recopilación de material diverso que pueda inspirar un *look & feel* único.
+
+- - - - - - - 
+
+[← CLASE ANTERIOR](https://github.com/profesorfaco/interaccion/tree/main/sesion_08) — [SIGUIENTE CLASE →](https://github.com/profesorfaco/interaccion/tree/main/sesion_10)
